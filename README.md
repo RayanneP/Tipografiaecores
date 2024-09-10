@@ -5,3 +5,5 @@ LINGsCARS.com é uma concessionária de automóveis em Newcastle, na Inglaterra,
 ## site que atende as normas e  padrão:
 o site do Starbucks segue todos os padrões definidos para ser um site adequado, paleta de cores estabelecida e harmônica ,hierarquia e direcionamento estratégico para os produtos que eles oferecem e um destaque para eles, muito fácil navegar pelo site e com ícones para se localizar e segue um mesmo padrão de tipografia com letras seguindo o mesmo padrão de fonte .
 
+## Vantagens e desvantagens LINGs CARS:
+Apesar de ser um site considerado como caótico, a sua identidade é marcante, difícil de esquecer. Ele possui uma funcionalidade clara e uma acessibilidade muito grande. Ele tem presença marcante e única.
